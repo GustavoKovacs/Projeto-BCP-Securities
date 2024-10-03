@@ -1,4 +1,4 @@
-Segue o meu código em SQL para revisão abaixo.
+Segue o meu código em SQL para revisão.
 
 -- 1. Retorne a quantidade de debêntures listadas no dia anterior
 SELECT COUNT(*) AS quantidade_debentures
